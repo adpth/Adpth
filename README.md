@@ -6,7 +6,8 @@ I'm a Android Developer, Frontend web developer and UI designer. who is passiona
 ### More About Me:
 - 🌱 &nbsp; I’m currently learning jetpack compose.          
 - 👨🏻‍💻 &nbsp; Soon i will start uploading project here.
-- 🎨 &nbsp; I love to design UI, Figma is my choice
+- 🎨 &nbsp; I love to design UI, Figma is my choice.
+- 🎨 &nbsp; I love to design UI, Figma is my choice.
 - 💬 &nbsp; Ask me about anything, I am happy to help
 - 📚 &nbsp; Every morning, i read articles on Medium.
 
@@ -23,5 +24,5 @@ I'm a Android Developer, Frontend web developer and UI designer. who is passiona
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"></a>
 </p>
 
-### 📊 My Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=adpth&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<h3 align="left">📊 My Github Stats<h3>
+<a href=""><img src="https://github-readme-stats.vercel.app/api?username=adpth&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"></a>
