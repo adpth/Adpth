@@ -1,12 +1,12 @@
 # Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tharun
 
 I'm a Android Developer, Frontend web developer and UI designer. who is passionate about making open-source more accessible and creating the interface of the app more effective which brings more traffic on app. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+
 <img src="https://user-images.githubusercontent.com/61702243/135713157-cf8309ef-7a00-459d-a561-d189e4deb876.gif" align="right" width="425" height="425"></a>
 
 ### More About Me:
 - 🌱 &nbsp; I’m currently learning jetpack compose.          
 - 👨🏻‍💻 &nbsp; Soon i will start uploading project here.
-- 🎨 &nbsp; I love to design UI, Figma is my choice.
 - 🎨 &nbsp; I love to design UI, Figma is my choice.
 - 💬 &nbsp; Ask me about anything, I am happy to help
 - 📚 &nbsp; Every morning, i read articles on Medium.
@@ -25,4 +25,4 @@ I'm a Android Developer, Frontend web developer and UI designer. who is passiona
 </p>
 
 <h3 align="left">📊 My Github Stats<h3>
-<a href=""><img src="https://github-readme-stats.vercel.app/api?username=adpth&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"></a>
+<img src="https://github-readme-stats.vercel.app/api?username=adpth&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
